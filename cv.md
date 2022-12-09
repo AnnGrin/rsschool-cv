@@ -3,7 +3,7 @@
 * ![Photo](/images/photo.jpg)
 ## Contact information:
 * Phone: *+38 068 4489766*
-* E-mail: *ankavoloshina@gmail.com*
+* E-mail: *grinevichann1998@gmail.com*
 * Discorde: *Ann_Gri#7607*
 ## **About myself:**
  I am an economist with 2 years of experience and I decided to change my life dramatically. Free time I spend to learning Frontend Development. I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.
@@ -29,7 +29,7 @@
 ```
 ## Work experience: 
 I have no work experience, but I started studying at rsschool.  
-* [First work](https://github.com/AnnGrin/rsschool-cv.git)
+* [First work](https://github.com/AnnGrin/rsschool-cv)
 ## Education:
 higher, manager-economist
 ## Languages:
