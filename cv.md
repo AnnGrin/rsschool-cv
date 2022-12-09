@@ -1,5 +1,6 @@
 # **Ann Grinevich**
 ### **Junior Frontend Developer**
+* ![Photo](/images/photo.jpg)
 ## Contact information:
 * Phone: *+375291862350*
 * E-mail: *grinevichann1998@gmail.com*
