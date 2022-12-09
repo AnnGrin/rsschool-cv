@@ -12,6 +12,7 @@
 * HTML
 * VS Code
 ## Example of work
+
 ```html
 <html>
     <head>
@@ -25,7 +26,8 @@
         <h1>Четыре правила вёрстки</h1>
         </header>
     </body>
-</html>```
+</html>
+```
 ## Work experience: 
 I have no work experience, but I started studying at rsschool.  
 * [First work](https://github.com/AnnGrin/rsschool-cv)
