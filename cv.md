@@ -11,7 +11,7 @@
 * Git, GitHub
 * HTML
 * VS Code
-## Example of work
+## Example of work:
 
 ```html
 
