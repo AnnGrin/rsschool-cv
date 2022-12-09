@@ -14,6 +14,7 @@
 ## Example of work
 
 ```html
+
 <html>
     <head>
         <meta charset="UTF-8">
@@ -27,6 +28,7 @@
         </header>
     </body>
 </html>
+
 ```
 ## Work experience: 
 I have no work experience, but I started studying at rsschool.  
