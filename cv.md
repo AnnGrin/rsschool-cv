@@ -2,7 +2,7 @@
 ### **Junior Frontend Developer**
 * ![Photo](/images/photo.jpg)
 ## Contact information:
-* Phone: *+38 068 4489766*
+* Phone: *+375291862350*
 * E-mail: *grinevichann1998@gmail.com*
 * Discorde: *Ann_Gri#7607*
 ## **About myself:**
@@ -11,7 +11,8 @@
 * Git, GitHub
 * HTML
 * VS Code
-```
+## Example of work
+```html
 <html>
     <head>
         <meta charset="UTF-8">
@@ -24,8 +25,7 @@
         <h1>Четыре правила вёрстки</h1>
         </header>
     </body>
-</html>
-```
+</html>```
 ## Work experience: 
 I have no work experience, but I started studying at rsschool.  
 * [First work](https://github.com/AnnGrin/rsschool-cv)
