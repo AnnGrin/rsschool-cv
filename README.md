@@ -1,1 +1,1 @@
-# https://AnnGrin.github.io/rsschool-cv/cvgit
+# https://AnnGrin.github.io/rsschool-cv/cv
